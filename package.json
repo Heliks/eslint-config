@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-heliks",
+  "version": "0.0.1",
+  "description": "Repository for shared eslintrc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Felix Wolf",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.2.0",
+    "@typescript-eslint/parser": "^2.2.0",
+    "eslint": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "typescript": "^3.6.4"
+  }
+}
