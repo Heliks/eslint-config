@@ -224,7 +224,7 @@ module.exports = {
   'lines-around-comment': [
     'error',
     {
-      'beforeBlockComment': true,
+      'beforeBlockComment': false,
       'afterBlockComment': false,
       'beforeLineComment': true,
       'afterLineComment': false,
